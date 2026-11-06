@@ -1,0 +1,4 @@
+1;Ana Souza;Cliente;ana;123
+2;Bruno Lima;Cliente;bruno;123
+3;Carla Mendes;Cliente;carla;123
+4;Paula Rocha;Bibliotecario;admin;admin

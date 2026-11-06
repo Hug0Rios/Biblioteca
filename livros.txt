@@ -1,0 +1,10 @@
+1;Dom Casmurro;Machado de Assis
+2;Memórias Póstumas de Brás Cubas;Machado de Assis
+3;O Cortiço;Aluísio Azevedo
+4;Vidas Secas;Graciliano Ramos
+5;Grande Sertão: Veredas;João Guimarães Rosa
+6;A Hora da Estrela;Clarice Lispector
+7;Python Fluente;Luciano Ramalho
+8;Código Limpo;Robert C. Martin
+9;Entendendo Algoritmos;Aditya Bhargava
+10;O Hobbit;J. R. R. Tolkien
